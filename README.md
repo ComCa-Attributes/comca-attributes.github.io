@@ -1,14 +1,14 @@
-# Nerfies
+# Compositional Caching for Training-free Open-vocabulary Attribute Detection
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [ComCa website](https://comca-attributes.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find ComCa useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{garosi2025comca,
+  author    = {Garosi, Marco and Conti, Alessandro and Liu, Gaowen and Ricci, Elisa and Mancini, Massimiliano},
+  title     = {Compositional Caching for Training-free Open-vocabulary Attribute Detection},
+  journal   = {CVPR},
+  year      = {2025},
 }
 ```
 
